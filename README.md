@@ -9,7 +9,7 @@
 
 IT Enthusiast from Saudi Arabia | Google IT Support Professional Certificate Holder | Aspiring Cybersecurity Professional 🔒
 
-Always had a passion for computers—especially **building PCs**, hardware/software troubleshooting, and PC optimization/tweaking. Now diving deeper into cybersecurity!
+Always had a passion for computers. especially **building PCs**, hardware/software troubleshooting, and PC optimization/tweaking. and now diving deeper into cybersecurity
 
 ### 🛠️ Skills & Interests
 - IT Fundamentals (Hardware, OS, Troubleshooting, Customer Support)
@@ -22,7 +22,7 @@ Always had a passion for computers—especially **building PCs**, hardware/softw
 
 
 ### 📜 Certifications
-- Google IT Support Professional Certificate (Completed 2025)
+- Google IT Support Professional Certificate (Completed 2026)
 
 <grok-card data-id="1b90a0" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
 
@@ -37,9 +37,8 @@ Always had a passion for computers—especially **building PCs**, hardware/softw
 
 ### 📫 Connect with Me
 - Email: [mahdi.mohammad.work@gmail.com](mailto:mahdi.mohammad.work@gmail.com)
-- LinkedIn: [add your link here if you have one]
 
-Thanks for stopping by! Excited to share projects from my cert labs, PC builds, and cybersecurity experiments as I progress. Feel free to star or fork anything useful 🚀
+Thanks for stopping by! Excited to share projects from my cert labs, PC builds, and cybersecurity experiments as I progress
 <!--
 **mahdicanfixit/mahdicanfixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
