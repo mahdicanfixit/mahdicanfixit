@@ -1,30 +1,45 @@
-## welcome
+# Hi there 👋, I'm Mahdi 🇸🇦
 
-my name is mahdi, a IT enthusiast in saudi arabia
+<grok-card data-id="be64fd" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
-always had a thing with computers, mainly building computers. software and hardware troubleshooting. and PC optimization/tweaking
 
-im a Google IT Support Professional Certificate holder and a Aspiring cybersecurity Professional
 
-Currently studying for CompTIA Security+ (SY0-701) and Network+. Passionate about IT infrastructure, networking, threat detection, and building secure systems.
+<grok-card data-id="5d3aae" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+IT Enthusiast from Saudi Arabia | Google IT Support Professional Certificate Holder | Aspiring Cybersecurity Professional 🔒
+
+Always had a passion for computers—especially **building PCs**, hardware/software troubleshooting, and PC optimization/tweaking. Now diving deeper into cybersecurity!
 
 ### 🛠️ Skills & Interests
 - IT Fundamentals (Hardware, OS, Troubleshooting, Customer Support)
+- PC Building & Optimization
 - Networking Basics
+- Cybersecurity Principles (Threat Detection, Secure Systems)
 - Tools: Linux, Wireshark, basic Python scripting
 
+<grok-card data-id="e52095" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
+
+
 ### 📜 Certifications
-- Google IT Support Professional Certificate (Completed 2026)
+- Google IT Support Professional Certificate (Completed 2025)
+
+<grok-card data-id="1b90a0" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
+
 
 ### 🌱 Currently Learning
-- Google cybersecurity
-- CompTIA Security+
-- CompTIA Network+ 
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ (SY0-701)
+- CompTIA Network+
+
+<grok-card data-id="8573e9" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
+
 
 ### 📫 Connect with Me
-- Email: mahdi.mohammad.work@gmail.com
+- Email: [mahdi.mohammad.work@gmail.com](mailto:mahdi.mohammad.work@gmail.com)
+- LinkedIn: [add your link here if you have one]
 
-Thank you for visiting, Feel free to check out my repos im adding projects from labs and cert prep.
+Thanks for stopping by! Excited to share projects from my cert labs, PC builds, and cybersecurity experiments as I progress. Feel free to star or fork anything useful 🚀
 <!--
 **mahdicanfixit/mahdicanfixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
