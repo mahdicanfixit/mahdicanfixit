@@ -24,7 +24,7 @@ Currently studying for CompTIA Security+ (SY0-701) and Network+. Passionate abou
 ### 📫 Connect with Me
 - Email: mahdi.mohammad.work@gmail.com
 
-Thanks for visiting! Feel free to check out my repos as I add projects from labs and cert prep.
+Thank you for visiting, Feel free to check out my repos im adding projects from labs and cert prep.
 <!--
 **mahdicanfixit/mahdicanfixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
