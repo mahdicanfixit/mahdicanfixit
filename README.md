@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mahdi 🇸🇦
+# Hi there 👋, I'm Mahdi
 
 <grok-card data-id="be64fd" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
@@ -7,7 +7,7 @@
 <grok-card data-id="5d3aae" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-IT Enthusiast from Saudi Arabia | Google IT Support Professional Certificate Holder | Aspiring Cybersecurity Professional 🔒
+IT Enthusiast from Morocco | Google IT Support Professional Certificate Holder | Aspiring Cybersecurity Professional 🔒
 
 Always had a passion for computers. especially **building PCs**, hardware/software troubleshooting, and PC optimization/tweaking. and now diving deeper into cybersecurity
 
