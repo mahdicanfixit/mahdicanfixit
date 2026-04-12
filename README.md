@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Mahdi
 
-<grok-card data-id="be64fd" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="5d3aae" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
 
 IT Enthusiast from Morocco | Google IT Support Professional Certificate Holder | Aspiring Cybersecurity Professional 🔒
 
