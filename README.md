@@ -3,7 +3,7 @@
 IT Enthusiast from Morocco | Google IT & Cybersecurity Certificate Holder
 Trying to break into cybersecurity step by step
 
-I’ve always been into computers—especially **building PCs**, troubleshooting, and optimizing performance. Recently, I’ve been diving deeper into cybersecurity and trying to understand how things work under the hood.
+Ive always been into computers, especially **building PCs**, troubleshooting, and optimizing performance. Recently, ive been diving deeper into cybersecurity and trying to understand how things work under the hood.
 
 ---
 
