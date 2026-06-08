@@ -1,69 +1,28 @@
-# Hi there 👋, I'm Mahdi
+# 👋 Hi there, I'm Mahdi
 
-IT Enthusiast from Morocco | Google IT & Cybersecurity Certificate Holder
-Trying to break into cybersecurity step by step
+## 📖 My Journey: From Breaking PCs to Building Systems
 
-Ive always been into computers, especially **building PCs**, troubleshooting, and optimizing performance. Recently, ive been diving deeper into cybersecurity and trying to understand how things work under the hood.
+My passion for technology started early when our family computer constantly broke down. Frustrated by waiting days for a technician, I decided to open it up and fix it myself. **It worked—and I was hooked.** 
 
----
+Years later, I advanced to building custom high-performance hardware, troubleshooting operating systems down to the registry, and configuring minimalist, optimized Linux environments.
 
-### 🛠️ Skills & Interests
+I firmly believe that in modern technology, **execution and adaptability outclass a traditional degree every single time.** That drive led me to successfully complete multiple professional industry tracks through independent self study, and it continues to fuel my daily development loops.
 
-* IT Fundamentals
-* Cybersecurity Principles
-* PC Building & Optimization
-* Networking Basics
+## 🛠️ Technical Focus & Interests
 
----
+*   **Systems Architecture:** Building, optimizing, and hardware-troubleshooting high-performance systems.
+*   **Cybersecurity Foundations:** Fully framework-trained across core defensive domains (Threats, Cryptography, Identity Access Management).
+*   **Infrastructure & Automation:** Actively weaponizing Python to build logical automations, parse data structures, and orchestrate cloud environments.
+*   **Continuous Growth:** Treating complex networking anomalies and syntax debugging as puzzles to solve, utilizing AI pairs to accelerate development.
 
-### 📜 Certifications
+## 📜 Verified Professional Tracks
 
-* Google IT Support Professional Certificate (Completed 2026)
-* Google Cybersecurity Certificate (Completed 2026)
+*   🥇 **CompTIA Security+ Curriculum** | *Theoretical Foundations Mastered (Practice Phase Completed)*
+*   🔐 **Google Cybersecurity Professional Certificate** | *Completed 2026*
+*   💻 **Google IT Support Professional Certificate** | *Completed 2026*
 
----
+## 🎯 Current Technical Deep-Dives
 
-### 🌱 Currently Learning
-
-* CompTIA Security+ (SY0-701)
-
----
-
-### My Story
-
-Ive enjoyed competitive games since I was young, and our family computer used to break down all the time. Waiting days to fix it was frustrating, so one day I tried fixing it myself thinking it wouldnt change much.
-
-But it worked. And that moment got me hooked.
-
-years later, i built my first PC in 2023. since then, ive been learning more about performance tweaking, Linux, and security. I do all of this out of pure interest, actually enjoy understanding how things work and sometimes even breaking them in the process.
-
-And in 2025, I decided to start earning certifications to help me break into the IT field. I believe what really matters is whether you can do the work, not just what degree you have. Technology keeps evolving, and adapting is what makes someone valuable.
-
----
-
-### What I’m Working On
-
-* Networking is currently the hardest topic for me but also the most interesting
-* I sometimes break things while tweaking my PC (part of the process)
-* I havent gone deep into coding yet, but I understand the basics
-
----
-
-### 📫 Connect with Me
-
-* Email: [mahdi.mohammad.work@gmail.com](mailto:mahdi.mohammad.work@gmail.com)
-
-<!--
-**mahdicanfixit/mahdicanfixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌐 Mastering core computational networking (OSI layers, TCP/IP traffic paths, subnets) to eliminate my legacy infrastructure blind spots.
+*   🐍 Building modular Python scripts to interface with financial data pipelines and web APIs.
+*   🤖 Learning to leverage agentic AI environments to act as a system architect rather than a manual syntax typer.
