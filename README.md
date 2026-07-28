@@ -1,6 +1,6 @@
 # Hi, I'm Mahdi 👋
 
-moroccan self taught system enthusiast based in saudi arabia.
+Self taught systems enthusiast from Morocco, currently based in Saudi Arabia.
 
 My interests include Linux, networking, cybersecurity, hardware/optimization, Python automation, and cloud infrastructure.
 
