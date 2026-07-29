@@ -9,7 +9,7 @@ My interests include Linux, networking, cybersecurity, Python automation, cloud 
 - Google Cybersecurity Professional
 - CS50P Introduction to Programming with Python
 
-## Knowledge
+## Additional Coursework
 - Completed the full Network+ learning objectives (not certified).
 - Completed the full Security+ curriculum and labs (not certified).
 
