@@ -14,11 +14,10 @@ My interests include Linux, networking, cybersecurity, Python automation, cloud 
 - Completed the full Security+ curriculum and labs (not certified).
 
 ## Currently Learning
-- Cloud fundamentals
-- Infrastructure automation
-- Backend APIs (FastAPI)
+- AWS Solutions Architect Associate
   
 ## Featured Projects
-- Ubuntu Server Hardening
-- Enterprise Network Architecture (Cisco Packet Tracer)
-- Personal Knowledge Base
+- Ubuntu Hardening Lab
+- Enterprise Network Design (Cisco packet tracer)
+- Wazuh SIEM Lab
+- Wireshark Network Analysis 
