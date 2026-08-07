@@ -13,12 +13,9 @@ My interests include Linux, networking, cybersecurity, Python automation, cloud 
 - Completed the full Network+ learning objectives (not certified).
 - Completed the full Security+ curriculum and labs (not certified).
 
-## Currently Learning
-- AWS Solutions Architect Associate
-  
 ## Featured Projects
-🐧 Hands-on Ubuntu server hardening lab.
-🌐 Enterprise network featuring VLANs and routing.
-🛡️ Wazuh SIEM deployment with Windows endpoint monitoring.
-📡 Wireshark network traffic analysis.
-🔐 Windows password auditing using Nmap and Hydra.
+- Ubuntu server hardening lab.
+- Enterprise network featuring VLANs and routing.
+- Wazuh SIEM deployment with Windows endpoint monitoring.
+- Wireshark network traffic analysis.
+- Windows password auditing using Nmap and Hydra.
