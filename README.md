@@ -17,7 +17,8 @@ My interests include Linux, networking, cybersecurity, Python automation, cloud 
 - AWS Solutions Architect Associate
   
 ## Featured Projects
-- Ubuntu Hardening Lab
-- Enterprise Network Design (Cisco packet tracer)
-- Wazuh SIEM Lab
-- Wireshark Network Analysis 
+🐧 Hands-on Ubuntu server hardening lab.
+🌐 Enterprise network featuring VLANs and routing.
+🛡️ Wazuh SIEM deployment with Windows endpoint monitoring.
+📡 Wireshark network traffic analysis.
+🔐 Windows password auditing using Nmap and Hydra.
