@@ -19,3 +19,4 @@ My interests include Linux, networking, cybersecurity, Python automation, cloud 
 - Wazuh SIEM deployment with Windows endpoint monitoring.
 - Wireshark network traffic analysis.
 - Windows password auditing using Nmap and Hydra.
+- Automating Active Directory users via python and powershell
