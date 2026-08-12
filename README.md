@@ -12,11 +12,3 @@ My interests include Linux, networking, cybersecurity, Python automation, cloud 
 ## Additional Coursework
 - Completed the full Network+ learning objectives (not certified).
 - Completed the full Security+ curriculum and labs (not certified).
-
-## Featured Projects
-- Ubuntu server hardening lab.
-- Enterprise network featuring VLANs and routing.
-- Wazuh SIEM deployment with Windows endpoint monitoring.
-- Wireshark network traffic analysis.
-- Windows password auditing using Nmap and Hydra.
-- Automating Active Directory users via python and powershell
