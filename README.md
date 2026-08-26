@@ -2,7 +2,7 @@
 
 Self taught systems enthusiast from Morocco, currently based in Saudi Arabia.
 
-My interests include Linux, networking, cybersecurity, Python automation, cloud infrastructure, and systems administration.
+My interests include cybersecurity, networks, Python automation, Linux and systems administration.
 
 ## Certifications
 - Google IT Support Professional
