@@ -1,4 +1,4 @@
-# Hi, I'm Mahdi 👋
+# Hey
 
 Self taught systems enthusiast from Morocco, currently based in Saudi Arabia.
 
